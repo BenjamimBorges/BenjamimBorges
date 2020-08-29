@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=BenjamimBorges&show_icons=true&theme=vue" alt="BenjamimBorges" /></td>
-<td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjamimBorges&hide=html&layout=compact&theme=vue" alt="benjamimborges" /></td>
+<td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjamimBorges&hide=html&layout=compact&theme=vue" alt="BenjamimBorges" /></td>
 </tr>   
   </table>
 </center>
