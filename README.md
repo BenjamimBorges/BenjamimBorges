@@ -28,11 +28,12 @@
 <center>
   <table>
     <tr>
-      <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=BenjamimBorges&show_icons=true&theme=default" alt="BenjamimBorges" /></td>
-<td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjamimBorges&hide=html&layout=compact&theme=default" alt="BenjamimBorges" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/?username=BenjamimBorges&show_icons=true&theme=dark" alt="benjamimborges" /></td>
+<td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjamimBorges&hide=html&layout=compact&theme=dark" /></td>
 </tr>   
   </table>
 </center>
+
 <p align="center">
 <a href="https://twitter.com/BenBorges88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt=" BenBorges88" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/benjamim-borges-2ba6251b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjamimborges" height="20" width="20" /></a>
