@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for help with **ReactJs**
 
-- 💬 Ask me about **BackEnd**
+- 💬 Ask me about **Node**
 
 <p align="center">
  <code><img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
