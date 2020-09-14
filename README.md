@@ -1,5 +1,5 @@
 
-<h1align="center">Hey 👋, I'm Benjamim Borges!</h1>
+<h1 align="center">Hey 👋, I'm Benjamim Borges!</h1>
 <h3 align="center">I'm a Brazilian BackEnd Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamimborges-github-username&color=green" alt="BenjamimBorges" /> </p>
 
