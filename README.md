@@ -40,4 +40,4 @@
 <a href=https://www.instagram.com/borges.benjamim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Ben_Borges" height="20" width="20" /></a>
 </p>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BenjamimBorges/BenjamimBorges/blob/output/github-contribution-grid-snake.svg)
